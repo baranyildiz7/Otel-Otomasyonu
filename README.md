@@ -38,7 +38,7 @@ Bu proje, bir otel otomasyonu sistemi geliştirmek için tasarlanmıştır. Proj
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 # Projeyi klonlayın
-git clone https://github.com/kullaniciAdi/otel-otomasyonu.git
+git clone https://github.com/baranyildiz7/otel-otomasyonu.git
 
 # Proje dizinine gidin
 cd otel-otomasyonu
