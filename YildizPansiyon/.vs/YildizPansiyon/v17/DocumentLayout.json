@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\yenimusteriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\yenimusteriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\stokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\stokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\sifreguncelleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\sifreguncelleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|c:\\users\\baran\\desktop\\masa\u00FCst\u00FC\\projeler\\csharp\\yildizpansiyon\\yildizpansiyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\satinalmaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\satinalmaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\resepsiyonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\resepsiyonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\radyodinleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\radyodinleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\odemeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\odemeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\odayaekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\odayaekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\odalarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\odalarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\musterimesajform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\musterimesajform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\musterilerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\musterilerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\muhasebeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\muhasebeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\gelirgiderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\gelirgiderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\faturaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\faturaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\admingirisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\admingirisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\musterilerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\musterilerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\yenimusteriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\yenimusteriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\yildizpansiyon\\stokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C332C0-273E-41BE-A389-DEF4CBADF1B3}|YildizPansiyon\\YildizPansiyon.csproj|solutionrelative:yildizpansiyon\\stokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\Program.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\Program.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\Program.cs",
+              "RelativeToolTip": "YildizPansiyon\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:43:12.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResepsiyonForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\ResepsiyonForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\ResepsiyonForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\ResepsiyonForm.cs [Design]",
+              "RelativeToolTip": "YildizPansiyon\\ResepsiyonForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:37:16.511Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SatinAlmaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\SatinAlmaForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\SatinAlmaForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\SatinAlmaForm.cs [Design]",
+              "RelativeToolTip": "YildizPansiyon\\SatinAlmaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:37:19.053Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SifreGuncelleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\SifreGuncelleForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\SifreGuncelleForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\SifreGuncelleForm.cs [Design]",
+              "RelativeToolTip": "YildizPansiyon\\SifreGuncelleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:37:20.331Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StokForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\StokForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\StokForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\StokForm.cs [Design]",
+              "RelativeToolTip": "YildizPansiyon\\StokForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:38:59.401Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YeniMusteriForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\YeniMusteriForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\YeniMusteriForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\YeniMusteriForm.cs [Design]",
+              "RelativeToolTip": "YildizPansiyon\\YeniMusteriForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:41:37.583Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RadyoDinleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\RadyoDinleForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\RadyoDinleForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\RadyoDinleForm.cs [Design]",
+              "RelativeToolTip": "YildizPansiyon\\RadyoDinleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:37:09.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OdemeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\OdemeForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\OdemeForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\OdemeForm.cs [Design]",
+              "RelativeToolTip": "YildizPansiyon\\OdemeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:45:24.076Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MusterilerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\MusterilerForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\MusterilerForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\MusterilerForm.cs [Design]",
+              "RelativeToolTip": "YildizPansiyon\\MusterilerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:45:00.721Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OdayaEKleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\OdayaEKleForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\OdayaEKleForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\OdayaEKleForm.cs [Design]",
+              "RelativeToolTip": "YildizPansiyon\\OdayaEKleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:45:20.319Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OdalarForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\OdalarForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\OdalarForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\OdalarForm.cs [Design]",
+              "RelativeToolTip": "YildizPansiyon\\OdalarForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:45:19.773Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MusteriMesajForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\MusteriMesajForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\MusteriMesajForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\MusteriMesajForm.cs [Design]",
+              "RelativeToolTip": "YildizPansiyon\\MusteriMesajForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:45:18.58Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminGirisForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\AdminGirisForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\AdminGirisForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\AdminGirisForm.cs [Design]",
+              "RelativeToolTip": "YildizPansiyon\\AdminGirisForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:38:09.631Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MuhasebeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\MuhasebeForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\MuhasebeForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\MuhasebeForm.cs [Design]",
+              "RelativeToolTip": "YildizPansiyon\\MuhasebeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:45:16.103Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GelirGiderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\GelirGiderForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\GelirGiderForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\GelirGiderForm.cs [Design]",
+              "RelativeToolTip": "YildizPansiyon\\GelirGiderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:45:15.276Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FaturaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\FaturaForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\FaturaForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\FaturaForm.cs [Design]",
+              "RelativeToolTip": "YildizPansiyon\\FaturaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:45:14.028Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MusterilerForm.cs",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\MusterilerForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\MusterilerForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\MusterilerForm.cs",
+              "RelativeToolTip": "YildizPansiyon\\MusterilerForm.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAjwEoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:45:03.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "YeniMusteriForm.cs",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\YeniMusteriForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\YeniMusteriForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\YeniMusteriForm.cs",
+              "RelativeToolTip": "YildizPansiyon\\YeniMusteriForm.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAowJIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:44:19.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StokForm.cs",
+              "DocumentMoniker": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\StokForm.cs",
+              "RelativeDocumentMoniker": "YildizPansiyon\\StokForm.cs",
+              "ToolTip": "C:\\Users\\baran\\Desktop\\Masa\u00FCst\u00FC\\Projeler\\CSHARP\\YildizPansiyon\\YildizPansiyon\\StokForm.cs",
+              "RelativeToolTip": "YildizPansiyon\\StokForm.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:44:56.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

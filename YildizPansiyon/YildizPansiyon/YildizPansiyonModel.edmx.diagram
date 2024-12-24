@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="92097026b6e74ed2ba907b8a6a734a22" Name="Diagram1">
+        <EntityTypeShape EntityType="YildizPansiyonModel.MusteriEkle" Width="1.5" PointX="0.75" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="YildizPansiyonModel.AdminGiris" Width="1.5" PointX="5.25" PointY="0.5" />
+        <EntityTypeShape EntityType="YildizPansiyonModel.odalar" Width="1.5" PointX="3" PointY="0.5" />
+        <AssociationConnector Association="YildizPansiyonModel.FK_odalar_MusteriEkle" />
+        <AssociationConnector Association="YildizPansiyonModel.FK_MusteriEkle_odalar" />
+        <EntityTypeShape EntityType="YildizPansiyonModel.vw_MusteriList" Width="1.5" PointX="3" PointY="3" />
+        <EntityTypeShape EntityType="YildizPansiyonModel.stoklar" Width="1.5" PointX="7.5" PointY="0.5" />
+        <EntityTypeShape EntityType="YildizPansiyonModel.vw_StokList" Width="1.5" PointX="7.5" PointY="2.625" />
+        <EntityTypeShape EntityType="YildizPansiyonModel.faturalar" Width="1.5" PointX="5.25" PointY="2.375" />
+        <EntityTypeShape EntityType="YildizPansiyonModel.vw_FaturaList" Width="1.5" PointX="5.25" PointY="4.5" />
+        <EntityTypeShape EntityType="YildizPansiyonModel.musteriMesaj" Width="1.5" PointX="0.75" PointY="4.375" />
+        <EntityTypeShape EntityType="YildizPansiyonModel.vw_MesajList" Width="1.5" PointX="7.5" PointY="4.625" />
+        <EntityTypeShape EntityType="YildizPansiyonModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="7.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

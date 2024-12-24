@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="YildizPansiyonModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AdminGiris">
+    <Key>
+      <PropertyRef Name="departmanAdi" />
+    </Key>
+    <Property Name="departmanAdi" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="kullaniciAdi" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="sifre" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="faturalar">
+    <Key>
+      <PropertyRef Name="faturaID" />
+    </Key>
+    <Property Name="faturaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="elektrik" Type="int" />
+    <Property Name="su" Type="int" />
+    <Property Name="internet" Type="int" />
+  </EntityType>
+  <EntityType Name="MusteriEkle">
+    <Key>
+      <PropertyRef Name="musteriID" />
+    </Key>
+    <Property Name="musteriID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="musteriAdi" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="musteriSoyadi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="musteriCinsiyet" Type="nvarchar" MaxLength="5" Nullable="false" />
+    <Property Name="musteriTelefon" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="musteriMail" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="musteriTC" Type="nvarchar" MaxLength="11" Nullable="false" />
+    <Property Name="odaID" Type="int" />
+    <Property Name="ucret" Type="int" Nullable="false" />
+    <Property Name="girisTarihi" Type="date" Nullable="false" />
+    <Property Name="cikisTarihi" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="musteriMesaj">
+    <Key>
+      <PropertyRef Name="mesajID" />
+    </Key>
+    <Property Name="mesajID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ad" Type="nvarchar" MaxLength="20" />
+    <Property Name="soyad" Type="nvarchar" MaxLength="20" />
+    <Property Name="mesaj" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="odalar">
+    <Key>
+      <PropertyRef Name="odaID" />
+    </Key>
+    <Property Name="odaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="musteriID" Type="int" />
+    <Property Name="odaNo" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="stoklar">
+    <Key>
+      <PropertyRef Name="urunID" />
+    </Key>
+    <Property Name="urunID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="gida" Type="int" />
+    <Property Name="icecek" Type="int" />
+    <Property Name="cerez" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'YildizPansiyon.dbo.vw_FaturaList' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vw_FaturaList">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Elektrik" Type="int" />
+    <Property Name="Su" Type="int" />
+    <Property Name="İnternet" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'YildizPansiyon.dbo.vw_MesajList' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vw_MesajList">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ad" Type="nvarchar" MaxLength="20" />
+    <Property Name="Soyad" Type="nvarchar" MaxLength="20" />
+    <Property Name="Mesaj" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'YildizPansiyon.dbo.vw_MusteriList' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vw_MusteriList">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="Ad" />
+      <PropertyRef Name="Soyad" />
+      <PropertyRef Name="Cinsiyet" />
+      <PropertyRef Name="Telefon" />
+      <PropertyRef Name="Email" />
+      <PropertyRef Name="TC_No" />
+      <PropertyRef Name="Ücret" />
+      <PropertyRef Name="Giriş_Tarihi" />
+      <PropertyRef Name="Çıkış_Tarihi" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Ad" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="Soyad" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="Cinsiyet" Type="nchar" MaxLength="5" Nullable="false" />
+    <Property Name="Telefon" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="Email" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="TC_No" Type="nchar" MaxLength="12" Nullable="false" />
+    <Property Name="Oda_No" Type="int" />
+    <Property Name="Ücret" Type="int" Nullable="false" />
+    <Property Name="Giriş_Tarihi" Type="date" Nullable="false" />
+    <Property Name="Çıkış_Tarihi" Type="date" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'YildizPansiyon.dbo.vw_StokList' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vw_StokList">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Gıda_Tutarı" Type="int" />
+    <Property Name="İçecek_Tutarı" Type="int" />
+    <Property Name="Çerez_Tutarı" Type="int" />
+  </EntityType>
+  <Association Name="FK_MusteriEkle_odalar">
+    <End Role="odalar" Type="Self.odalar" Multiplicity="0..1" />
+    <End Role="MusteriEkle" Type="Self.MusteriEkle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="odalar">
+        <PropertyRef Name="odaID" />
+      </Principal>
+      <Dependent Role="MusteriEkle">
+        <PropertyRef Name="odaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_odalar_MusteriEkle">
+    <End Role="MusteriEkle" Type="Self.MusteriEkle" Multiplicity="0..1" />
+    <End Role="odalar" Type="Self.odalar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MusteriEkle">
+        <PropertyRef Name="musteriID" />
+      </Principal>
+      <Dependent Role="odalar">
+        <PropertyRef Name="musteriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="fn_diagramobjects" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="int" />
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="YildizPansiyonModelStoreContainer">
+    <EntitySet Name="AdminGiris" EntityType="Self.AdminGiris" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="faturalar" EntityType="Self.faturalar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MusteriEkle" EntityType="Self.MusteriEkle" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="musteriMesaj" EntityType="Self.musteriMesaj" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="odalar" EntityType="Self.odalar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="stoklar" EntityType="Self.stoklar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="vw_FaturaList" EntityType="Self.vw_FaturaList" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vw_FaturaList].[ID] AS [ID], 
+    [vw_FaturaList].[Elektrik] AS [Elektrik], 
+    [vw_FaturaList].[Su] AS [Su], 
+    [vw_FaturaList].[İnternet] AS [İnternet]
+    FROM [dbo].[vw_FaturaList] AS [vw_FaturaList]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="vw_MesajList" EntityType="Self.vw_MesajList" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vw_MesajList].[ID] AS [ID], 
+    [vw_MesajList].[Ad] AS [Ad], 
+    [vw_MesajList].[Soyad] AS [Soyad], 
+    [vw_MesajList].[Mesaj] AS [Mesaj]
+    FROM [dbo].[vw_MesajList] AS [vw_MesajList]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="vw_MusteriList" EntityType="Self.vw_MusteriList" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vw_MusteriList].[ID] AS [ID], 
+    [vw_MusteriList].[Ad] AS [Ad], 
+    [vw_MusteriList].[Soyad] AS [Soyad], 
+    [vw_MusteriList].[Cinsiyet] AS [Cinsiyet], 
+    [vw_MusteriList].[Telefon] AS [Telefon], 
+    [vw_MusteriList].[Email] AS [Email], 
+    [vw_MusteriList].[TC_No] AS [TC_No], 
+    [vw_MusteriList].[Oda_No] AS [Oda_No], 
+    [vw_MusteriList].[Ücret] AS [Ücret], 
+    [vw_MusteriList].[Giriş_Tarihi] AS [Giriş_Tarihi], 
+    [vw_MusteriList].[Çıkış_Tarihi] AS [Çıkış_Tarihi]
+    FROM [dbo].[vw_MusteriList] AS [vw_MusteriList]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="vw_StokList" EntityType="Self.vw_StokList" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vw_StokList].[ID] AS [ID], 
+    [vw_StokList].[Gıda_Tutarı] AS [Gıda_Tutarı], 
+    [vw_StokList].[İçecek_Tutarı] AS [İçecek_Tutarı], 
+    [vw_StokList].[Çerez_Tutarı] AS [Çerez_Tutarı]
+    FROM [dbo].[vw_StokList] AS [vw_StokList]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_MusteriEkle_odalar" Association="Self.FK_MusteriEkle_odalar">
+      <End Role="odalar" EntitySet="odalar" />
+      <End Role="MusteriEkle" EntitySet="MusteriEkle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_odalar_MusteriEkle" Association="Self.FK_odalar_MusteriEkle">
+      <End Role="MusteriEkle" EntitySet="MusteriEkle" />
+      <End Role="odalar" EntitySet="odalar" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
