@@ -69,7 +69,7 @@ Projede Microsoft SQL Server kullanılmaktadır. Veritabanı yapısı aşağıda
 - https://github.com/onurbbaskan
 - https://github.com/Dogukcan
 - https://github.com/kadirssatr
-- 
+- https://github.com/ardaesen
 
 # 👍 Lisans
 
