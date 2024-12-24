@@ -65,6 +65,6 @@ Projede Microsoft SQL Server kullanılmaktadır. Veritabanı yapısı aşağıda
 
 - musteriMesaj (müşterilerin talepleri)
 
-👍 Lisans
+# 👍 Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
