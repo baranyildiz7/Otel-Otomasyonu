@@ -1,7 +1,7 @@
-🏨 Otel Otomasyonu Projesi
+# 🏨 Otel Otomasyonu Projesi
 Bu proje, bir otel otomasyonu sistemi geliştirmek için tasarlanmıştır. Proje, otel işleyişini kolaylaştırmak ve müşteri kayıt, oda takibi, fatura yönetimi gibi temel işlemleri dijital ortama taşımak amacıyla geliştirilmiştir.
 
-🔧 Proje Özellikleri
+# 🔧 Proje Özellikleri
 
 - Oda Rezervasyon Sistemi: Oda ekleme, güncelleme ve silme işlemleri.
 
@@ -17,7 +17,7 @@ Bu proje, bir otel otomasyonu sistemi geliştirmek için tasarlanmıştır. Proj
 
 - Yetkilendirme: Muhasebe, resepsiyon ve satın alma departmanları için ayrı yetkilendirme sistemleri.
 
-👨‍💼 Admin Paneli
+# 👨‍💼 Admin Paneli
 
 - Adminler, müşteri kayıtlarını ve oda durumlarını takip edebilir.
 
@@ -25,7 +25,7 @@ Bu proje, bir otel otomasyonu sistemi geliştirmek için tasarlanmıştır. Proj
 
 - Fatura ve gelir-gider dengeleri admin panelinden izlenebilir.
 
-👩‍💼 Kullanıcı Rolleri
+# 👩‍💼 Kullanıcı Rolleri
 
 - Muhasebe: Fatura ve gelir-gider işlemlerini yönetir.
 
@@ -33,7 +33,7 @@ Bu proje, bir otel otomasyonu sistemi geliştirmek için tasarlanmıştır. Proj
 
 - Satın Alma: Otel için stok ekleme, güncelleme ve sipariş işlemlerini gerçekleştirir.
 
-🛠️ Kurulum
+# 🛠️ Kurulum
 
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
@@ -45,7 +45,7 @@ cd otel-otomasyonu
 
 # Visual Studio ile projeyi açın ve derleyin
 
-📊 Veri Tabanı
+# 📊 Veri Tabanı
 
 Projede Microsoft SQL Server kullanılmaktadır. Veritabanı yapısı aşağıdaki gibidir:
 
