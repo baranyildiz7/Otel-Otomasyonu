@@ -16,3 +16,55 @@ Bu proje, bir otel otomasyonu sistemi geliştirmek için tasarlanmıştır. Proj
 - Kasa Yönetimi: Otel kasasında biriken gelirlerin takip edilmesi ve güncellenmesi.
 
 - Yetkilendirme: Muhasebe, resepsiyon ve satın alma departmanları için ayrı yetkilendirme sistemleri.
+
+👨‍💼 Admin Paneli
+
+- Adminler, müşteri kayıtlarını ve oda durumlarını takip edebilir.
+
+- Tüm departmanların giriş ve çıkışları admin tarafından kontrol edilebilir.
+
+- Fatura ve gelir-gider dengeleri admin panelinden izlenebilir.
+
+👩‍💼 Kullanıcı Rolleri
+
+- Muhasebe: Fatura ve gelir-gider işlemlerini yönetir.
+
+- Resepsiyon: Müşteri kayıtlarını ve oda atamalarını yapar.
+
+- Satın Alma: Otel için stok ekleme, güncelleme ve sipariş işlemlerini gerçekleştirir.
+
+🛠️ Kurulum
+
+Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
+
+# Projeyi klonlayın
+git clone https://github.com/kullaniciAdi/otel-otomasyonu.git
+
+# Proje dizinine gidin
+cd otel-otomasyonu
+
+# Visual Studio ile projeyi açın ve derleyin
+
+📊 Veri Tabanı
+
+Projede Microsoft SQL Server kullanılmaktadır. Veritabanı yapısı aşağıdaki gibidir:
+
+- adminGiris (kullanıcı seçenekleri)
+
+- birimler (departmanalar ve maaşları)
+  
+- musteriEkle (müşteri kayıtları)
+
+- odalar (oda bilgileri ve durumları)
+
+- faturalar (fatura işlemleri)
+
+- stoklar (otel stokları)
+
+- odemeler (ödenecek tutar)
+
+- musteriMesaj (müşterilerin talepleri)
+
+👍 Lisans
+
+Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
